@@ -37,3 +37,6 @@ At the Last step, Click on "Launch Zero-Trust"
 
 ## Your Site should now be fully Protected against DDoS Attacks. If you need further help, dont hesitate to DM me on Discord: 36lw / ID: 186672191218253825
 Thanks for reading this and i hope i could help you <3
+
+
+# My Cloudflare Testsite is: https://femboydominator88.org/bd or https://femboydominator88.org/ normally. Port is like always 443
