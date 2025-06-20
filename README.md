@@ -24,7 +24,7 @@ All examples work with the **Free Plan** of Cloudflare.
 2. Choose your domain
 3. Follow all the Steps below
 
-![Cloudflare Firewall UI](https://imgur.com/a/dn3qDxs)
+## Cloudflare Firewall UI
 
 1. Head over to Security
 2. Click on "Security rules"
